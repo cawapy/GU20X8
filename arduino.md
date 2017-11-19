@@ -16,6 +16,8 @@ If you even wish to reset the display from the micro controller, you need the RS
 This will result in 15 to 19 pins. What is quite a lot, but it is still possible with the Arduino Nano (no idea about the other models).
 However, this makes it difficult to add other devices, as the Arduino will run out of pins.
 
+A library with an example can be found on my GitHub project [GU20X8Lib](https://github.com/cawapy/GU20X8Lib).
+
 ## Using Shift Registers
 
 Instead of connecting the pins directly to the Arduino, you can also use shift registers, such as the well known HC595.
