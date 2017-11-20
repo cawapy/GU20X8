@@ -17,7 +17,8 @@ This will result in 15 to 19 pins. What is quite a lot, but it is still possible
 However, this makes it difficult to add other devices, as the Arduino will run out of pins.
 
 A library with an example can be found on my GitHub project [GU20X8Lib](https://github.com/cawapy/GU20X8Lib).
-The example sketch uses the pin assignment as depicted [in this fritzing file](Direct-Connected-Example.fzz).
+The example sketch uses the pin assignment as depicted [in this fritzing file](Direct-Connected-Example.fzz):
+![](Direct-Connected-Example.png)
 
 ## Using Shift Registers
 
